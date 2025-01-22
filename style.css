@@ -13,7 +13,7 @@ p {
 
 a {
 text-decoration: none;
-color: white;
+color: fuchsia;
 }
 
 .name {
@@ -44,6 +44,11 @@ color: white;
     background-color: darkblue;
     border: aqua 1px solid;
     border-radius: 6px;
+}
+
+.telegram a {
+text-decoration: none;
+color: white;
 }
 
 footer {
