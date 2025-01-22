@@ -59,7 +59,7 @@ footer {
     display: inline-flex;
     justify-content: space-between;
     align-items: center;
-    width: 100%;
+    width: full;
     position: relative;
     bottom: 0;
 }
