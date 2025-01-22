@@ -11,6 +11,11 @@ p {
     color: azure;
 }
 
+a {
+text-decoration: none;
+color: white;
+}
+
 .name {
     font-family: "Papyrus";
     display: inline-flex;
